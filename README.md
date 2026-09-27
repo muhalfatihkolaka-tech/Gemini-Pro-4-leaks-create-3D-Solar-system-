@@ -20,7 +20,7 @@ During advanced 3D programming prompts, the Arena router deployed two vastly dif
 ## 📂 File Directory
 
 ### 1. `Gemini_4_Pro_Secret_Leak_Solaris3D.html`
-* **The Prompt:** A request for a highly precise, interactive 3D solar system simulator with accurate planetary flattening, calipers, and advanced UI controls.
+* **The Prompt:** Create an interactive 3D solar system using Three.js inside a single HTML file, and make the shape as accurate as possible.
 * **Key Technical Highlights:**
   * Flawless integration of scientific math equations (\(f = \frac{a-c}{a}\)) mapped directly to vertex shaders.
   * Real-time calculation of equatorial bulge (\(\Delta r\)).
